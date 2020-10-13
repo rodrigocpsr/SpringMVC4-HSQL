@@ -15,7 +15,7 @@
 		<jstl.version>1.2</jstl.version>
 		<tld.version>1.1.2</tld.version>
 		<servletapi.version>3.1.0</servletapi.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<dbcp.version>2.1</dbcp.version>
 	</properties>
 
